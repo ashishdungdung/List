@@ -1,0 +1,431 @@
+Plaza Code	Plaza Type	Plaza City	Plaza State	Concessionaire	Plaza Name
+1002	National	Vadodara	Gujarat	L&T	L&T Vadodra
+2001	National	Navsari	Gujarat	IRB	IRB Boriach
+2002	National	Palghar	Maharashtra	IRB	IRB Charoti
+2003	National	Valsad	Gujarat	IRB	IRB Bhagwada
+2004	National	Surat	Gujarat	IRB	IRB Choryasi
+2005	National	Ahmedabad	Gujarat	AVBOT(IRB)	Ahmedabad Toll Plaza
+2006	National	Ahmedabad	Gujarat	AVBOT(IRB)	Ahmedabad (Ring Road) Toll Plaza
+2007	National	Kheda	Gujarat	AVBOT(IRB)	Nadiad Toll Plaza
+2008	National	Anand	Gujarat	AVBOT(IRB)	Anand Toll Plaza
+2009	National	Vadodara	Gujarat	AVBOT(IRB)	Vadodara Toll Plaza
+2011	National	Kheda	Gujarat	IRB	Kheda
+2012	National	Anand	Gujarat	IRB	Vasad
+6001	National	Ajmer	Rajasthan	Soma	Gegal
+6002	National	Ajmer	Rajasthan	Soma	Pipalaz
+7001	National	Gurgaon	Haryana	Millinieum City Expressway(MCEPL)	Manesar Toll Plaza
+7002	National	Delhi	Delhi	Millinieum City Expressway(MCEPL)	IGI Toll Plaza
+8001	National	Jaipur	Rajasthan	GVK	Jaipur Plaza
+8002	National	Ajmer	Rajasthan	GVK	Kishangarh Plaza
+9001	National	Alwar	Rajasthan	Pink City Expressway	Shahjahanpur Toll Plaza
+9002	National	Jaipur	Rajasthan	Pink City Expressway	Manoharpura Toll plaza
+9003	National	Jaipur	Rajasthan	Pink City Expressway	Daulatpura Toll Plaza
+10001	National	Bhilwara	Rajasthan	NHAI	Kavalias Toll Plaza
+10002	National	Chittaurgarh	Rajasthan	NHAI	Jojro Ka Kheda Toll Plaza
+10003	National	Chittaurgarh	Rajasthan	NHAI	Rithola Toll Plaza
+10004	National	Udaipur	Rajasthan	NHAI	Narayanpura Toll Plaza
+10005	National	Udaipur	Rajasthan	NHAI	Paduna Toll Plaza
+10006	National	Udaipur	Rajasthan	NHAI	Khandi Obri Toll Plaza
+10007	National	Aravalli	Gujarat	NHAI	Vantada Toll Plaza
+10008	National	Sabarkatha	Gujarat	NHAI	Kathpur Toll Plaza
+13001	National	Kanchipuram	Tamil Nadu	NHAI	SriPerumbadur
+13002	National	Vellore	Tamil Nadu	NHAI	Chennasamaduram
+14001	National	Sahibzada Ajit Singh Nagar	Punjab	GMR	Ambala Chandigarh
+15001	National	Nalgonda	Telangana	GMR	Pantangi
+15002	National	Nalgonda	Telangana	GMR	Koralaphad
+15003	National	Krishna	Andhra Pradesh	GMR	Chillakallu
+16001	National	Koppal	Karnataka	GMR	Vanagiri
+16002	National	Koppal	Karnataka	GMR	Shahapur
+16003	National	Koppal	Karnataka	GMR	Hitnal
+17001	National	Tumkur	Karnataka	IRB TCBOT	Karjeevanhally Toll Plaza
+17002	National	Chitradurga	Karnataka	IRB TCBOT	Guilalu Toll Plaza
+18001	National	Villupuram	Tamil Nadu	Ulundurpet Expressway(IDFC)	Vikkravandi Toll Plaza
+19001	National	Villupuram	Tamil Nadu	Trichy Tollways Pvt Ltd	SENGURICHI TOLL PLAZA
+19002	National	Perambalur	Tamil Nadu	Trichy Tollways Pvt Ltd	THIRUMANDURAI TOLL PLAZA
+20001	National	Tiruvallur	Tamil Nadu	NHAI	SURAPATTU TOLL PLAZA
+20002	National	Tiruvallur	Tamil Nadu	NHAI	VANAGARAM TOLL PLAZA
+21001	National	Kurnool	Andhra Pradesh	MEP Infra Projects	Amakthadu toll plaza
+21002	National	Anantapuram	Andhra Pradesh	MEP Infra Projects	Kasepalli toll plaza
+21003	National	Anantapuram	Andhra Pradesh	MEP Infra Projects	Marur toll plaza
+22001	National	Madurai	Tamil Nadu	Raima Toll Road(MEP)	Kappalur
+22002	National	Virudhunagar	Tamil Nadu	Raima Toll Road(MEP)	Etturvattam
+22003	National	Thoothukudi	Tamil Nadu	Raima Toll Road(MEP)	Salaipudur
+22004	National	Tirunelveli	Tamil Nadu	Raima Toll Road(MEP)	Nanguneri
+23001	National	Amravati	Maharashtra	IRB	Nandgaon Toll Plaza
+24001	National	Nagpur	Maharashtra	Oriental	MANSAR TOLL PLAZA
+24002	National	Nagpur	Maharashtra	Oriental	KAMPTEE KANHAN BYPASS CHECK TOLL PLAZA
+24003	National	Nagpur	Maharashtra	Oriental	NAGPUR BYPASS CHECK TOLL PLAZA
+24004	National	Wardha	Maharashtra	Oriental	BORKHEDI TOLL PLAZA
+25001	National	Wardha	Maharashtra	Oriental	Karanja Toll Plaza
+26001	National	Agra	Uttar Pradesh	Oriental	Korai Toll Plaza
+27001	National	Dhar	Madhya Pradesh	Oriental	Khalghat Toll Plaza
+28001	National	Kanpur Dehat	Uttar Pradesh	Oriental	Barajore toll plaza
+28002	National	Auraiya	Uttar Pradesh	Oriental	Anantram Toll Plaza
+29001	National	Bangalore Rural	Karnataka	ILFS	Laxamannath Plaza
+29002	National	West Medinipur	West Bengal	ILFS	Rampura Plaza
+30001	National	Pathankot	Punjab	IRB	LADPALWAN TOLL PLAZA
+30002	National	Amritsar	Punjab	IRB	WARYAM NANGAL TOLL PLAZA
+31001	National	Jaipur	Rajasthan	IRB	Barkheda Toll Plaza
+31002	National	Tonk	Rajasthan	IRB	Sonwa Toll Plaza
+32001	National	Salem	Tamil Nadu	IRB	Omalur Toll Plaza
+33001	National	Varanasi	Uttar Pradesh	Soma Isolux	Daffi Toll Plaza
+33002	National	Kaimur	Bihar	SOMA	Mohania Toll Plaza
+33003	National	Rohtas	Bihar	SOMA	Sasaram Toll Plaza
+34001	National	Mahabubnagar	Telangana	Jadcherla Expressways Pvt. Ltd	Raikal Toll Plaza
+35001	National	Bangalore Urban	Karnataka	Gaziabad Aligarh Expressway Pvt Ltd	ELECTRONIC CITY Phase 1
+35002	National	Bangalore Urban	Karnataka	BETL	ATTIBELLE
+36001	National	Tiruchirappalli	Tamil Nadu	Indu Navayuga	Samayapuram Toll Plaza
+37001	National	Pudukkottai	Tamil Nadu	Eagle Infra	Boothakudi
+37002	National	Madurai	Tamil Nadu	Eagle Infra	Chittampatti
+38001	National	Kheda	Gujarat	Essel Infra	Pithai Toll Plaza
+38002	National	Panchmahal	Gujarat	Essel Infra	Vavadi Toll Plaza
+39001	National	Panipat	Haryana	L&T	L&T PANIPAT
+40001	National	Palghar	Maharashtra	IRB	Khaniwade Toll Plaza
+41001	National	Kapurthala	Punjab	IVRCL	JATL Dhilwan Toll Plaza
+41002	National	Amritsar	Punjab	IVRCL	JATL Nijjerpura Toll Plaza
+42001	National	Erode	Tamil Nadu	IVRCL	Vijayamangalam Toll Plaza
+43001	National	Salem	Tamil Nadu	IVRCL	Vaiguntham Toll Plaza
+44001	National	Satara	Maharashtra	MSRDCL	TASAWADE TOLL PLAZA
+44002	National	Kolhapur	Maharashtra	MSRDCL	Kini Toll Plaza
+45001	National	Nalgonda	Telangana	Sadbhav	Guduru Toll Plaza
+46001	National	Bijapur	Karnataka	Sadbhav	Bijapur Toll Plaza
+46002	National	Bagalkot	Karnataka	Sadbhav	Nagarhalla Toll Plaza
+47001	National	Jaipur	Rajasthan	Reliance	Tatiawas Toll Plaza
+48001	National	Nellore	Andhra Pradesh	SWARNA TOLLWAY PRIVATE LIMITED	Sullurpet Plaza (NH- 16), (old NH-5)
+48002	National	Nellore	Andhra Pradesh	SWARNA TOLLWAY PRIVATE LIMITED	Budhanam Plaza (NH- 16),(old NH-5)
+48003	National	Nellore	Andhra Pradesh	SWARNA TOLLWAY PRIVATE LIMITED	Nellore Plaza (NH- 16), (old NH-5)
+48004	National	Vijaywada	Andhra Pradesh	SWARNA TOLLWAY PRIVATE LIMITED	Keesara Plaza (NH-65), (old NH-9)
+49001	National	Guntur	Andhra Pradesh	IJM	Kaza Toll Plaza Mangalgiri
+50001	National	Moradabad	Uttar Pradesh	Moradabad Bareilly Expressway Limited	Niyamatpur Ekrotiya Toll Plaza
+50002	National	Bareilly	Uttar Pradesh	Moradabad Bareilly Expressway Limited	Thiriya Khetal Toll Plaza
+51001	National	Solapur	Maharashtra	ILFS & ITNL	Sawaleshwar Toll Plaza
+51002	National	Solapur	Maharashtra	ILFS & ITNL	Varwade Toll Plaza
+52001	National	Rajkot	Gujarat	ILFS	Pithadiya Toll Plaza
+52002	National	Rajkot	Gujarat	ILFS	Bharudi Toll Plaza
+53001	National	Nagpur	Maharashtra	Atlanata Infra	Gondkhairi Plaza
+54001	National	Pune	Maharashtra	TRIL	Patas Plaza
+54002	National	Raigad	Maharashtra	TRIL	Sardewadi Plaza
+55001	National	Tiruchirappalli	Tamil Nadu	Reliance – TDTRL	Ponnambalapatti Plaza
+56001	National	Dindigul	Tamil Nadu	Reliance TN -DSTRL	Kozhinjiipatti Plaza
+57001	National	Namakkal	Tamil Nadu	Reliance – NKTRL	Rasampalayam Plaza
+58001	National	Salem	Tamil Nadu	Reliance - SUTRL	Mettupatti Plaza
+58002	National	Salem	Tamil Nadu	Reliance - SUTRL	Nathakkarai Plaza
+58003	National	Villupuram	Tamil Nadu	Reliance - SUTRL	Veeracholapuram Plaza
+59001	National	Tiruchirappalli	Tamil Nadu	Reliance - TKTRL	Thiruparaithurai Plaza
+59002	National	Karur	Tamil Nadu	Reliance -TKTRL	Manavasi Plaza
+60001	National	Krishnagiri	Tamil Nadu	Reliance-HKTRL	Krishnagiri Plaza
+61001	National	Satara	Maharashtra	Reliance-PSTRL	Anewadi Toll Plaza
+61002	National	Pune	Maharashtra	Reliance-PSTRL	Khed-Shivapur Toll Plaza
+62001	National	Palwal	Haryana	Reliance-DATRL	Srinagar Toll Plaza
+62002	National	Mathura	Uttar Pradesh	Reliance-DATRL	Mahuvan Toll Plaza
+63001	National	Dahod	Gujarat	BGTL Tollway Limited	Bhatwada Toll Plaza
+63101	National	Icchapuram	Andhra Pradesh	NHAI	Bellupada
+64001	National	Aurangabad	Bihar	NHAI	Saukala Toll Plaza
+65001	National	Srikakulam	Andhra Pradesh	NHAI	Madapam
+66001	National	Srikakulam	Andhra Pradesh	NHAI	Chilakpelam
+67001	National	Vizianagaram	Andhra Pradesh	NHAI	Nathavalasa
+68001	National	Vishakhapatnam	Andhra Pradesh	NHAI	Agnampadi
+69001	National	Vishakhapatnam	Andhra Pradesh	NHAI	Vempadu
+70001	National	East Godavari	Andhra Pradesh	NHAI	Krishnavaram
+72001	National	West Godavari	Andhra Pradesh	NHAI	Kalaparru
+72002	National	Krishna	Andhra Pradesh	NHAI	Pottipadu
+73001	National	Prakasam	Andhra Pradesh	KMC and BSCPL Infrastructure Ltd	Bollapalli Toll Plaza
+73002	National	Prakasam	Andhra Pradesh	KMC and BSCPL Infrastructure Ltd	Tangatur Toll Plaza
+73003	National	Nellore	Andhra Pradesh	KMC and BSCPL Infrastructure Ltd	Musunur Toll Plaza
+74001	National	Adilabad	Telangana	NHAI	Pippalwada
+75001	National	Adilabad	Telangana	NHAI	Rolmamda
+76001	National	Adilabad	Telangana	NHAI	Gamjal
+77001	National	Medak	Telangana	NHAI	Manoharabad
+78001	National	Nizamabad	Telangana	Navayuga	Indalwai
+79001	National	Mahabubnagar	Telangana	L&T	Sakapur Toll plaza
+80001	National	Mahabubnagar	Telangana	NHAI	Pullur
+81001	National	Vishakhapatnam	Andhra Pradesh	NHAI	Panchvati Colony(Vishakapatnam Port Connectivity)
+82001	National	Vishakapatnam	Andhra Pradesh	NHAI	Goshtani Gate of Navy(Vishakapatnam Port Connectivity)
+84001	National	Araria	Bihar	SMS	Hariabara
+85001	National	Supaul	Bihar	SMS	Asanpur Toll Plaza
+87001	National	Muzaffarpur	Bihar	SMS	Maithi
+88001	National	Purvi Champaran	Bihar	NHAI	Parsoni Khem
+90001	National	Purnia	Bihar	NHAI	Maranga
+90002	National	Bhagalpur	Bihar	NHAI	Kharik
+91001	National	Durg	Chhattisgarh	M/s SMS Shivnath Infrastructure Pvt. Ltd.	Durg Bypass
+92001	National	Rajnandgaon	Chhattisgarh	Ashoka Buildcon	Thakurtolla toll plaza
+94001	National	Banaskantha	Gujarat	NHAI	KHEMANA TOLL PLAZA
+95001	National	Patan	Gujarat	PATEL HIGHWAY MANAGEMENT PVT. LTD.	Varahi Toll Plaza
+95002	National	Kutch	Gujarat	PATEL HIGHWAY MANAGEMENT PVT. LTD.	Makhel Toll Plaza
+95003	National	Banaskantha	Gujarat	PATEL HIGHWAY MANAGEMENT PVT. LTD.	Bhiladi Toll Plaza
+95004	National	Banaskantha	Gujarat	PATEL HIGHWAY MANAGEMENT PVT. LTD.	Bhalgam Toll Plaza
+96001	National	Kutch	Gujarat	NHAI	Surajbari Toll Plaza
+97001	National	Morbi	Gujarat	NHAI	Vaghasiya Toll Plaza
+98001	National	Porbandar	Gujarat	NHAI	Vanana Toll Plaza
+99001	National	Rajkot	Gujarat	NHAI	Dhumiyani Toll Plaza
+100001	National	Kutch	Gujarat	L&T	Samakhiali
+102001	National	Sirohi	Rajasthan	NHAI	UNDVARIYA TOLL PLAZA
+103001	National	Rewari	Haryana	Kurukshetra Expressways Limited	Jat Gangaicha Toll Plaza
+103002	National	Jhajjar	Haryana	Kurukshetra Expressways Limited	Dighal Toll Plaza
+104001	National	Rohtak	Haryana	SADBHAV	Makrauli Kalan Toll Plaza
+104002	National	Panipat	Haryana	Sadbhav	Dahar Toll Plaza
+107001	National	Hazaribagh	Jharkhand	NHAI	Rasoiya Dhamna Toll Plaza
+107002	National	Giridih	Jharkhand	NHAI	Ghanghri Toll Plaza
+108001	National	Ranchi	Jharkhand	NHAI	HAZARIBAGH-RANCHI EXPRESSWAY (Pundag)
+109001	National	Belagavi	Karnataka	NHAI	Kognoli
+110001	National	Belagavi	Karnataka	NHAI	Hattargi
+111001	National	Belagavi	Karnataka	Ashoka Buildcon	Hirebgewadi toll plaza
+112001	National	Haveri	Karnataka	NHAI	Bankapur
+113001	National	Haveri	Karnataka	NHAI	Chalageri
+114001	National	Davanagere	Karnataka	NHAI	Hebbalu
+115001	National	Bangalore Rural	Karnataka	(Neelmangla Tumkur) Jass Tollways	Kulumapalya toll plaza
+115002	National	Tumkur	Karnataka	(Neelmangla Tumkur) Jass Tollways	Chokkenahalli toll plaza
+116001	National	Bangalore Rural	Karnataka	Navayuga Bengalooru Tollway Pvt Ltd	Plaza 1 @ Km 14+825
+116003	National	Bangalore Rural	Karnataka	Navayuga	Devanahalli Toll Plaza
+117001	National	Chikballapur	Karnataka	NHAI	Bagepalli Toll Plaza
+118001	National	Bangalore Rural	Karnataka	LANCO DEVANHALI TOLLWAY LTD	Nelamangala Toll Plaza
+118002	National	Mandya	Karnataka	LANCO DEVANHALI TOLLWAY LTD	Bellur Toll Plaza
+119001	National	Bangalore Rural	Karnataka	LANCO HOSKOTE TOLLWAY LTD	Hoskote Toll Plaza
+119002	National	Kolar	Karnataka	LANCO HOSKOTE TOLLWAY LTD	Mulbagal Toll Plaza
+120002	National	Mandya	Karnataka	L&T	Kadabhalli (Kirasave) Toll Plaza
+121001	National	Dakshina Kannada	Karnataka	NHAI	Brahamarakotlu
+123001	National	Thrissur	Kerala	Guruvayoor	Paliyekkara Toll plaza
+124001	National	Ernakulam	Kerala	Kochi Aror Tollways	Kumbalam Toll Plaza
+125002	National	Morena	Madhya Pradesh	Agra Gwalior Pathways	Choundha
+125003	National	Agra	Uttar Pradesh	Agra Gwalior Pathways	Baretha or Jajau
+126001	National	Gwalior	Madhya Pradesh	Path	Mehra
+127001	National	Sagar	Madhya Pradesh	DPJ DRA Tollways	Malthone
+127002	National	Sagar	Madhya Pradesh	DPJ DRA Tollways	Chitora
+127003	National	Sagar	Madhya Pradesh	DPJ DRA Tollways	Titarpani
+127004	National	Damoh	Madhya Pradesh	DPJ DRA Tollways	Bakori
+128001	National	Seoni	Madhya Pradesh	NHAI	Allonia
+129001	National	Shivpuri	Madhya Pradesh	Jhansi Baran Pathways	Ramnagar
+129002	National	Jhansi	Uttar Pradesh	Jhansi Baran Pathways	Raksha
+130001	National	Guna	Madhya Pradesh	Guna Infra	Guna
+131001	National	Barwani	Madhya Pradesh	Khalghat Sendhwa Tollways Pvt Ltd	Jamli Toll Pllaza
+132001	National	Indore	Madhya Pradesh	Indore Dewas Tollways	IDTL Toll Plaza-A
+132002	National	Dewas	Madhya Pradesh	Indore Dewas Tollways	IDTL Toll Plaza-B
+134001	National	Yavatmal	Maharashtra	NHAI	Kelapur
+134002	National	Wardha	Maharashtra	Anuj Kumar Aggarwal	Daroada
+137001	National	Nagpur	Maharashtra	JMC	Mathni
+138001	National	Bhandara	Maharashtra	Ashoka Buildcon	Sendurwafa toll plaza
+139001	National	Dhule	Maharashtra	DPTL	Shirpur
+139002	National	Dhule	Maharashtra	DPTL	Songir
+140001	National	Nashik	Maharashtra	Ircon Soma	Chandwad toll plaza
+140002	National	Dhule	Maharashtra	Ircon Soma	Laling toll plaza
+141001	National	Nashik	Maharashtra	NHAI	Baswant Toll Plaza
+142001	National	Nashik	Maharashtra	Gammon India	Ghoti toll plaza
+142002	National	Thane	Maharashtra	Gammon India	Arjunalli toll plaza
+146001	National	Balasore	Odisha	NHAI	SERGARH TOLL PLAZA
+147001	National	Jajpur	Odisha	NHAI	PANIKOILI TOLL PLAZA
+148001	National	Cuttack	Odisha	Shree Jagannath Expressway Pvt Ltd.	Manguli Toll Plaza
+149001	National	Khordha	Odisha	NHAI	Gudipada or Gangapada Toll Plaza
+150001	National	Ganjam	Odisha	NHAI	Gurapali
+151001	National	Bargarh	Odisha	Ashoka Buildcon	Sambalpur Baragarh Tollways
+152001	National	Jajpur	Odisha	NHAI	Srirampur toll plaza
+154001	National	Karnal	Haryana	Soma Isolux NH One Tollway Pvt. Ltd.	Gharonda Toll Plaza
+154002	National	Ambala	Haryana	Soma Isolux NH One Tollway Pvt. Ltd.	Sambhu Toll Plaza
+154003	National	Ludhiana	Punjab	Soma Isolux NH One Tollway Pvt. Ltd.	Ladowal Toll Plaza
+155001	National	Panchkula	Haryana	JP Infra	Chandimandir Toll Plaza
+156001	National	Amritsar	Punjab	NHAI	Chiddan Toll Plaza
+157001	National	Rupnagar	Punjab	BSC	BSC-C&C Kurali Toll Plaza
+158001	National	Hoshiarpur	Punjab	NHAI	Harsa Mansar Toll Plaza
+159001	National	Hoshiarpur	Punjab	NHAI	Chollang Toll Plaza
+160001	National	Kota	Rajasthan	M/S Kota Baran Toll Ways	Similiya
+160002	National	Baran	Rajasthan	M/S Kota Baran Toll Ways	Fatehpur
+161001	National	Chittaurgarh	Rajasthan	Chittorgarh Kota Toll Ways	Bassi
+161002	National	Bhilwara	Rajasthan	Chittorgarh Kota Toll Ways	Aroli
+161003	National	Bundi	Rajasthan	Chittorgarh Kota Toll Ways	Dhaneshwar
+162001	National	Sirohi	Rajasthan	Udaipur Pathways	Malera
+162002	National	Udaipur	Rajasthan	Udaipur Pathways	Gogunda
+163001	National	Bharatpur	Rajasthan	M/s Madhucon House Agra – Jaipur Expressways Ltd.	Ludhwai Toll Plaza
+163002	National	Bharatpur	Rajasthan	M/s Madhucon House Agra – Jaipur Expressways Ltd.	Amoli Toll Plaza
+164001	National	Dausa	Rajasthan	JAIPUR MAHUA TOLLWAY PRIVATE LIMITED	Sikandra Toll Plaza
+164002	National	Jaipur	Rajasthan	JAIPUR MAHUA TOLLWAY PRIVATE LIMITED	Rajadhok Toll Plaza
+165001	National	Baran	Rajasthan	Jhansi Baran Pathways	Mundiyar
+166001	National	Sikar	Rajasthan	NHAI	Akhepura
+167001	National	Vellore	Tamil Nadu	L&T Krishnagiri Walajahpet Tollway Limited	Vaniyambadi Toll Plaza
+167002	National	Vellore	Tamil Nadu	L&T Krishnagiri Walajahpet Tollway Limited	Pallikonda Toll Plaza
+168001	National	Tiruvallur	Tamil Nadu	L&T Chennai Tada Tollway Limited	Nallur Toll Plaza
+169001	National	Dharmapuri	Tamil Nadu	L&T	L&T Krishnagiri Thopur Toll Plaza
+170001	National	Dindigul	Tamil Nadu	Madhucon Infra	Velanchettiyur
+173001	National	Kanchipuram	Tamil Nadu	NHAI	Paranur
+174001	National	Kanchipuram	Tamil Nadu	NHAI	Athur
+176001	National	Tiruchirappalli	Tamil Nadu	Madhucon Infra	Valvanthankottai
+176002	National	Virudhunagar	Tamil Nadu	Madhucon Infra	Elliyarpathy
+176003	National	Thoothukudi	Tamil Nadu	Madhucon Infra	Pudurpandiyapuram
+177001	National	Villupuram	Tamil Nadu	Pondicherry Tollways	Pondicherry Tindivanam Toll Plaza
+178001	National	Pudukkottai	Tamil Nadu	NHAI	Lembalakudi
+178002	National	Pudukkottai	Tamil Nadu	NHAI	Lechchumanapatti
+178003	National	Thoothukudi	Tamil Nadu	NHAI	VAGAIKULAM TOLL PLAZA
+180001	National	Firozabad	Uttar Pradesh	IRB	Tundla Toll Plaza
+180002	National	Firozabad	Uttar Pradesh	IRB	Gurau (Formerly Semra Atikabad) Toll Plaza
+181001	National	Jhansi	Uttar Pradesh	Sh. Keshav Agarwal	Babina Toll Plaza
+181002	National	Lalitpur	Uttar Pradesh	M/s Balaji Enterprises	Vighakhet Toll Plaza
+182001	National	Kushinagar	Uttar Pradesh	M/s Gorakhpur Kasia Tollways Pvt Ltd.	Salemgarh Toll Plaza
+183001	National	Kushinagar	Uttar Pradesh	M/s Gorakhpur Kasia Tollways Pvt Ltd.	Muzaina Hetim Toll Plaza
+184001	National	Gorakhpur	Uttar Pradesh	M/s Gorakhpur Kasia Tollways Pvt Ltd.	Tendua Toll Plaza
+185001	National	Basti	Uttar Pradesh	Ayodhya Gorakhpur SMS Toll Pvt. Ltd. (AGSTPL)	Chaukadi Toll Plaza
+186001	National	Basti	Uttar Pradesh	Ayodhya Gorakhpur SMS Toll Pvt. Ltd. (AGSTPL)	Mandawnagar Toll Plaza
+187001	National	Bareilly	Uttar Pradesh	PNC Kanpur-Ayodhya Tollways Pvt. Ltd.	Nawabganj Toll Plaza
+187002	National	Barabanki	Uttar Pradesh	PNC Kanpur-Ayodhya Tollways Pvt. Ltd.	Ahmadpur Toll Plaza
+187003	National	Faizabad	Uttar Pradesh	PNC Kanpur-Ayodhya Tollways Pvt. Ltd.	Ronahi Toll Plaza
+188001	National	Jalaun	Uttar Pradesh	M/s Eagle Infra India Ltd	Chamari Toll Plaza
+189001	National	Jalaun	Uttar Pradesh	M/s Welcome Infra	AIT Toll Plaza
+190001	National	Jhansi	Uttar Pradesh	M/s Bhargavendra Nath Upadhyaya	SEMRI Toll Plaza
+191001	National	Ghaziabad	Uttar Pradesh	M/s Adycon Infrastructures Pvt Ltd	Dasna Toll plaza
+192001	National	Allahabad	Uttar Pradesh	M/s Bholanath Rajpati Shukla	Naini Toll Plaza
+193001	National	Hapur	Uttar Pradesh	Gaziabad Aligarh Expressway Pvt Ltd	Brijghat Toll Plaza
+194001	National	Amroha	Uttar Pradesh	M/s Bholanath Rajpati Shukla	Joya Toll Plaza
+196001	National	Sitapur	Uttar Pradesh	Lucknow Sitapur Expressways Limited	Itaunja Toll Plaza
+197001	National	Sitapur	Uttar Pradesh	Lucknow Sitapur Expressways Limited	Khairabad Toll Plaza
+198001	National	Fatehpur	Uttar Pradesh	M/s Bholanath Rajpati Shukla	Katoghan Toll Plaza
+199001	National	Kaushambi	Uttar Pradesh	Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)	KOKHRAJ (Sirohi) Toll Plaza
+199002	National	Allahabad	Uttar Pradesh	Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)	HANDIYA (Sujala ) Toll Plaza
+199003	National	Allahabad	Uttar Pradesh	Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)	Nawabganj Toll Plaza
+199004	National	Allahabad	Uttar Pradesh	Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)	SORAON Toll Plaza
+199005	National	Allahabad	Uttar Pradesh	Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)	SAHSON Toll Plaza
+200001	National	Sant Ravidas Nagar	Uttar Pradesh	M/s Bholanath Rajpati Shukla	Lalanagar Toll Plaza
+201001	National	Aligarh	Uttar Pradesh	Brijbhoomi Expressway Pvt. Ltd.	Madrak Toll Plaza
+201002	National	Hathras	Uttar Pradesh	Brijbhoomi Expressway Pvt. Ltd.	Baros Toll Plaza
+202001	National	Fatehpur	Uttar Pradesh	M/s Sahkar Global	Badauri Toll Plaza
+203001	National	Bardhaman	West Bengal	NHAI	Palsit
+203002	National	Hooghly	West Bengal	NHAI	Dankuni
+204001	National	Howrah	West Bengal	Second Vivekananda Bridge Tollway Company Private Limited	Rajchandrapur Toll Plaza
+205001	National	Howrah	West Bengal	Ashoka Buildcon	Jaladhulagori toll plaza
+205002	National	West Medinipur	West Bengal	Ashoka Buildcon	Debra toll plaza
+206001	National	Darjeeling	West Bengal	NHAI	Paschim Madati
+207001	National	Uttar Dinajpur	West Bengal	NHAI	Surjapur
+208001	National	Purba Medinipur	West Bengal	NHAI	Sonapetya
+209001	National	Dhanbad	Jharkhand	M/s IL&FS	Beliyad toll plaza
+210001	National	Murshidabad	West Bengal	Barahmpur-Farakka Tollway Pvt. Ltd.	Chandermore Plaza
+210002	National	Murshidabad	West Bengal	Barahmpur-Farakka Tollway Pvt. Ltd.	Shibpur Plaza
+211001	National	Purnia	Bihar	NHAI	Barsoni Toll Plaza
+212001	National	Srikakulam	Andhra Pradesh	NHAI	Laxmipuram
+214001	National	Betul	Madhya Pradesh	Oriental Nagpur Betul Highway Pvt ltd	Khambara Toll Plaza
+214002	National	Betul	Madhya Pradesh	Oriental Nagpur Betul Highway Pvt ltd	Milanpur Toll Plaza
+215001	National	Kanpur Nagar	Uttar Pradesh	PNC Kanpur Highways Ltd.	Aliyapur Toll Plaza
+215002	National	Hamirpur	Uttar Pradesh	PNC Kanpur Highways Ltd.	Khanna Toll Plaza
+216001	National	Meerut	Uttar Pradesh	Western UP Tollway Ltd.	Sivaya Toll Plaza
+217002	National	Tapi	Gujarat	Soma Isolux Surat Hazira Tollway Pvt. Ltd.	Mandal Toll Plaza
+218001	National	Rae Bareli	Uttar Pradesh	Arya Toll Infra Limited	Dakhina Shekpur Toll Plaza
+219001	National	Kutch	Gujarat	Reliance	Mokha Toll Plaza
+220001	National	Pali	Rajasthan	L&T	Raipur
+220002	National	Pali	Rajasthan	L&T	Indranagar
+220003	National	Pali	Rajasthan	L&T	BIRAMI
+220004	National	Sirohi	Rajasthan	L&T	UTHMAN
+230001	National	Tiruppur	Tamil Nadu	Concessionaire	IVRCL Chengapally Tollways Limited
+231001	National	Jhalawar	Rajasthan	NHAI	Methoon Toll Plaza
+232001	National	Puri	Odisha	Bhubaneswar Expressway Pvt. Ltd	Pipili Toll Plaza
+233001	National	Kota	Rajasthan	GVK	Kishorepura Toll Plaza
+234001	National	Kadapa	Andhra Pradesh	Rayalasema Expressway Private Limited	Palempalli Toll Plaza
+234002	National	Kurnool	Andhra Pradesh	Rayalasema Expressway Private Limited	Chagalmarri Toll Plaza
+235001	National	Rajsamand	Rajasthan	Shreenathji Udaipur Tollway Pvt Ltd	Mandawara Toll Plaza
+235002	National	Rajsamand	Rajasthan	Shreenathji Udaipur Tollway Pvt Ltd	Negadiya Toll Plaza
+238001	National	Betul	Madhya Pradesh	NHAI	Chikhalikala
+238002	National	Seoni	Madhya Pradesh	NHAI	Fulara
+238003	National	Chhindwara	Madhya Pradesh	NHAI	Jungawani
+238004	National	Seoni	Madhya Pradesh	NHAI	Jaitpur
+239001	National	Nagpur	Maharashtra	NHAI	Kelwad
+239100	National	Gautam Buddh Nagar	Uttar Pradesh	Gaziabad Aligarh Expressway Pvt Ltd	LUHARLI Toll plaza
+239101	National	Aligarh	Uttar Pradesh	Gaziabad Aligarh Expressway Pvt Ltd	GABHANA Tollplaza
+239200	National	Chittoor	Andhra Pradesh	Transtroy	S.V Puram Toll Plaza
+239201	National	Tiruvallur	Tamil Nadu	Transtroy	Pattarai Toll Plaza
+239300	National	West Godavari	Andhra Pradesh	NHAI	Unguturu Toll Plaza
+239301	National	East Godavari	Andhra Pradesh	NHAI	Eethakota at Km.946.300
+239400	National	Rohtak	Haryana	West Haryana Highways Project Pvt. Ltd.	Rohad Toll Plaza
+239500	National	Dakshina Kannada	Karnataka	NHAI	Surathkal Toll Plaza
+239700	National	Palakkad	Kerala	KNR Walayar Tollways Pvt Ltd	PamPamPallam Toll Plaza
+239800	National	Lakhisarai	Bihar	NHAI	Balgudar Toll Plaza
+239900	National	Darbhanga	Bihar	SMS	Raje Toll Plaza (T-2)
+240000	National	Nagpur	Maharashtra	NHAI	Patanswangi Toll Plaza
+241200	National	Nizamabad	Telangana	NHAI	Bhiknoor Toll Plaza
+241300	National	Sitamarhi	Bihar	NHAI	Runni Shaidpur Toll Plaza
+241400	National	Alipurduar	West Bengal	NHAI	Guabari Toll Plaza
+241601	National	Faridabad	Haryana	Badarpur Faridabad Tollway ltd	Badarpur faridabad Toll plaza
+241700	National	Mahasamund	Chhattisgarh	BSCPL Aurang Tollway Limited	Chhuhipali Toll Plaza
+241701	National	Mahasamund	Chhattisgarh	BSCPL Aurang Tollway Limited	Dhank Toll Plaza
+241800	National	Amethi	Uttar Pradesh	Khalatkaar Constructions	Nuruddinpur toll plaza
+241801	National	Jaunpur	Uttar Pradesh	Vinayendranath Upadhyay	Kunwarpur
+241900	National	Raipur	Chhattisgarh	Raipur Expressways Limited	Lakholi Toll Plaza
+242000	National	Rohtak	Haryana	Rohtak Hissar Tollway Private Limited/	Madina Toll Plaza
+242001	National	Hisar	Haryana	Rohtak Hissar Tollway Private Limited/	Mayar Toll Plaza
+243000	National	Chittaurgarh	Rajasthan	Bhilwara Rajsamand Tollway Private Limited	Rupakheda Toll Plaza
+243001	National	Ahmedabad	Gujarat	Bhilwara Rajsamand Tollway Private Limited	Mujras Toll Plaza
+120001	National	Hassan	Karnataka	L&T	Shantigrama Toll Plaza
+213001	National	Junagadh	Gujarat	Jetpur Somnath Tollways Private Limited	Gadoi Toll Plaza
+213002	National	Gir Somnath	Gujarat	Jetpur Somnath Tollways Private Limited	Dari Toll Plaza
+217001	National	Surat	Gujarat	Soma Isolux Surat Hazira Tollway Pvt. Ltd.	Bhatia Toll Plaza
+144001	National	Ri-Bhoi	Meghalaya	Nandini Talukdar	Diengpasoh Toll Plaza
+237001	National	Ri-Bhoi	Meghalaya	M/s Sahakar Global Ltd	Pahammawlein Toll Plaza
+239600	National	Ri-Bhoi	Meghalaya	JSRMTPL	Nangli Toll Plaza
+106001	National	Udhampur	J&K	Rakesh Kumar Choudhary	Bann Toll Plaza
+244000	National	Ri-Bhoi	Meghalaya	Farakka Raiganj Highways Ltd.	18th Mile Toll Plaza
+244001	National	Ri-Bhoi	Meghalaya	Farakka Raiganj Highways Ltd.	Gazole Toll Plaza
+5001	State	Shedung	Maharashtra	MIPL(Mumbai-Pune Expressway)	Shedung Toll Plaza
+5002	State	Khalapur	Maharashtra	MIPL(Mumbai-Pune Expressway)	Khalapur Toll Plaza
+5004	State	Kusgaon	Maharashtra	MIPL(Mumbai-Pune Expressway)	Kusgaon Toll Plaza
+5005	State	Talegaon	Maharashtra	MIPL(Mumbai-Pune Expressway)	Talegaon Toll Plaza
+245001	National	Indore	Madhya Pradesh	Oriental Pathways(Indore) PVT LTD	SONWAY Toll Plaza
+545001	State	Bhopal	Madhya Pradesh	MPRDC	Fanda Toll Plaza
+545002	State	Sehore	Madhya Pradesh	MPRDC	Amlaha Toll Plaza
+545003	State	Dewas	Madhya Pradesh	MPRDC	Bhourasa Toll Plaza
+380001	National	Patna	Bihar	BPAPA	Didar Ganj
+84001	National	Araria	Bihar	SMS	Hariabara
+284001	National	Muzaffarpur	Bihar	KNR Muzaffarpur Baraunitollway Pvt Ltd	Mahant Maniyari
+375001	National	Jaipur - Keonjhar	Odisha	SAI MAATARINI TOLLWAYS LIMITED	Hasanpur
+375002	National	Jaipur - Keonjhar	Odisha	SAI MAATARINI TOLLWAYS LIMITED	Kantaghar
+375003	National	Jaipur - Keonjhar	Odisha	SAI MAATARINI TOLLWAYS LIMITED	Banajodi
+257001	National	Sasthan	Karnataka	Navayuga	Sasthan Toll Plaza
+326002	National	​Rudrapur​	​Uttrakhand​	Kashipur Sitarganj Highways Pvt. Ltd.	DEORIYA
+312001	National	Dharamgarh	Haryana	IRB	Narwana
+312002	National	Bado patti	Haryana	IRB	Bado patti
+312003	National	Chaudhariwas	Haryana	IRB	Chaudhariwas
+280001	National	Barauni	Bihar	KNR Tollways Pvt. Ltd.	Murlitol
+341401	National	Ahmadnagar	Maharashtra	Khed -Sinnar Expressway Project (HAHPU)	Hiwargaon pavasa
+257003	National	Talapady	Karnataka	NAVAYUGA UDUPI TOLLWAY PVT LTD	Talapady Toll Plaza
+257002	National	Hejamadi	Karnataka	NAVAYUGA UDUPI TOLLWAY PVT LTD	Hejamadi Toll Plaza
+341101	National	Pune	Maharashtra	Khed -Sinnar Expressway Project (CPUAH)	Chalakwadi  toll plaza
+356100	National	Bidar	Karnataka	M/s Deccan Tollways Ltd	Mangalgi
+350100	National	Bidar	Telangana	M/s Deccan Tollways Ltd	Kamkole
+336001	National	Ankleshwar	Gujarat	NHAI	Mandva Toll Plaza (Narmada Bridge)
+380002	National	Saidpur Patedha (Sarai)	Bihar	NHAI	Saidpur Patedha
+313001	National	Sonipat	Haryana	NHAI	Bhagan Toll Plaza
+370001	National	Durgapur	West Bengal	M/s IL&FS	Banskopa Plaza
+330008	National	Gulabpura	Rajasthan	NHAI	Khedi
+330007	National	Jaipur	Rajasthan	CGBOT	Lambiya Kalan
+330002	National	Churu	Rajasthan	M/s Salasar Highways Pvt. Ltd.	Lasedi
+330003	National	Churu	Rajasthan	M/s Salasar Highways Pvt. Ltd.	Dhadhar
+330004	National	Churu	Rajasthan	M/s Salasar Highways Pvt. Ltd.	Sobhasar
+320001	National	Agra	Uttar Pradesh	NHAI	Raibha toll plaza
+313002	National	Hisar	Haryana	NHAI	Landhari Toll Plaza
+330005	National	Ajmer	Rajasthan	NHAI	Banthri
+330006	National	Ajmer	Rajasthan	NHAI	Tamdoli
+360003	National	Palaya Gandharvakottai Village	Tamil Nadu	NHAI	Palaya Gandharvakottai toll plaza
+312005	National	Sirsa	Haryana	NHAI	Khuian Malkna
+314003	National	Sangrur	Punjab	NHAI	Badbar
+340001	National	Nashik	Maharashtra	NHAI	Nashik Sinner Tollways Limited
+318001	National	Mada & Nashri	J&K	NHAI	Mada Fee Plaza
+330011	National	Barmer	Rajasthan	NHAI	Nimbayani
+340002	National	Sholapur	Maharashtra	IRB	Tamalwadi Toll Plaza
+340003	National	Osmanabad	Maharashtra	IRB	Yedashi Toll Plaza
+392001	National	Bokaro	Jharkhand	NHAI	Tand Balidih
+330012	National	Kota	Rajasthan	NHAI	Kota Bypass Toll Plaza
+312004	National	Sirsa	Haryana	NHAI	Bhavdeen Plaza
+360002	National	Shenbagampettai Village	Tamil Nadu	NHAI	Shenbagampettai toll plaza
+314005	National	Channo	Punjab	NHAI	Kalajhar Toll Plaza
+330009	National	Karauli	Rajasthan	NHAI	Kondar
+330010	National	Badi	Rajasthan	NHAI	Chilla Chond
+320002	National	Bahraich	Uttar Pradesh	NHAI	Aaini Toll Plaza
+314004	National	Bhatinda	Punjab	NHAI	Lehra Begga
+314006	National	Amritsar	Punjab	NHAI	Usma Toll plaza
+350002	National	Konetipuram	Telangana	NHAI	Konetipuram
+314011	National	Patiala	Punjab	NHAI	Dharer Azizpur Toll Plaza
+352001	National	Kurnool	Andhra Pradesh	Rayalaseema Expressways Private ltd	Nannur
+345005	National	Kolaras	Madhya Pradesh	Ircon	Purankhedi Toll Plaza
+314010	National	Zirakpur	Punjab	NHAI	Dhareri Jattan Plaza
+345003	National	Guna	Madhya Pradesh	Dilip Buildcon Limited , Metro infrasys	Pagara Toll Plaza
+345004	National	Biaora	Madhya Pradesh	Dilip Buildcon Limited , Metro infrasys	Jogipur Toll Plaza
+314012	National	Talwandi	Punjab	NHAI	Kot Karora Kalan Plaza
+314009	National	Bhatinda	Punjab	NHAI	Zidda Toll Plaza
+330001	National	Jodhpur	Rajasthan	M/s Eagle Infra India Ltd	Doli toll plaza
+314013	National	Partran	Punjab	NHAI	Paind Toll Plaza
+330013	National	Barmer	Rajasthan	NHAI	Nimbasar
+352004	National	Chinthalapalem	Andhra Pradesh	NHAI	Chinthalapalem toll plaza
+352005	National	Rapur	Andhra Pradesh	NHAI	Rapur toll plaza67
+352006	National	Mylavaram	Andhra Pradesh	NHAI	Badava
